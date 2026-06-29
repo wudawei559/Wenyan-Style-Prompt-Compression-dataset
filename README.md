@@ -32,6 +32,8 @@ The study compares original prompts, unconstrained compressed prompts, and Wenya
 * `gemini_batch_run_tokens_with_txt_py39.py`
   Example/template batch-running script for the Gemini model. Users may need to adjust file names, prompt inputs, API configuration, and local paths before running it.
 
+* self_contained_prompts_15.xlsx
+  All the prompts are here.
 ## Data description
 
 The dataset includes materials related to 15 Chinese prompts across three input conditions:
